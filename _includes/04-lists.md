@@ -1,3 +1,1 @@
-dog
-cat
-cow
+dog cat 🙀 
